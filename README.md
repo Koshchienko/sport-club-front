@@ -1,1 +1,1 @@
-# sport-clup-front
+# sport-club-front
