@@ -1,0 +1,124 @@
+.main {
+    min-height: 800px;
+}
+
+.main__background {
+    background: url(../img/main-background.jpeg) no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+.footer__devs {
+    text-align: left;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+.link:hover {
+    color: rgba(241, 126, 41, 0.65);
+}
+
+.link:active {
+    color: rgba(241, 126, 41, 1);
+}
+
+.copyright {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.logo {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.login-logo {
+    position: relative;
+    margin-left: -41.5%;
+}
+
+.login-logo img {
+    position: absolute;
+    width: 20%;
+    margin-top: 19%;
+    background: #282726;
+    border-radius: 4.5rem;
+    padding: 5%;
+}
+
+.login-wrapper {
+    padding-top: 125px;
+}
+.login-form {
+    margin: 0 auto;
+    padding: 6%;
+    background:#282726;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form h3 {
+    text-align: center;
+    margin-bottom:12%;
+    color:#fff;
+}
+
+.form-group {
+    padding-top: 15px;
+}
+
+.btnSubmit{
+    font-weight: 600;
+    width: 50%;
+    color: #282726;
+    background-color: #fff;
+    border: none;
+    border-radius: 1.5rem;
+    padding:2%;
+}
+
+.btnSubmit__user {
+    color: #fff;
+    background-color: #282726;
+}
+
+.btnSubmit:hover {
+    color: #fff;
+    background-color: rgba(241, 126, 41, 0.65);
+}
+
+.btnSubmit:active {
+    color: #282726;
+    background-color: rgba(241, 126, 41, 1);
+}
+
+.text-in-form{
+    color: #fff;
+    font-weight: 600;
+}
+
+.btnForgetPwd:hover{
+    text-decoration:none;
+    color:#fff;
+}
+
+.move {
+    padding-top: 15px;
+}
+
+@media screen and (min-width: 768px)  {
+    .logo {
+        width: 800px;
+        height: 800px;
+    }
+
+    .main__background {
+        height: 800px;
+    }
+}

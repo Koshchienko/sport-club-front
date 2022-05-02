@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 150px;fill: #ffffff;font-weight: 400;font-family: "IndigoRegular-Regular", "Indigo" } 
+	</style>
+	<text id="Sport Club" style="transform: matrix(1,0,0,1,19,446);paint-order:stroke fill markers;stroke: #000000;stroke-width: 8;stroke-linejoin: round;" >
+		<tspan x="0" y="0" class="txt0">S</tspan><tspan  y="0" class="txt0">p</tspan><tspan  y="0" class="txt0">o</tspan><tspan  y="0" class="txt0">r</tspan><tspan  y="0" class="txt0">t</tspan><tspan  y="0" class="txt0"> </tspan><tspan  y="0" class="txt0">C</tspan><tspan  y="0" class="txt0">l</tspan><tspan  y="0" class="txt0">u</tspan><tspan  y="0" class="txt0">b</tspan><tspan  y="0" class="txt0">
+</tspan>
+	</text>
+</svg>
